@@ -1,6 +1,6 @@
 # RSS to JSON
 
-A quick fix while The Texas Tribune's API catches up! Converts our summmary RSS feeds into usable JSON and pushes them up to S3.
+A quick fix while The Texas Tribune's API catches up! Converts our summary RSS feeds into usable JSON and pushes them up to S3.
 
 ## Setup and Usage (without Docker)
 
