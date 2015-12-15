@@ -2,5 +2,6 @@
 // represents the slug it'll have, and the URL is value.
 
 module.exports = {
-  'public-education': 'http://www.texastribune.org/feeds/sections/education/public-education/'
+  'public-education': 'http://www.texastribune.org/feeds/sections/education/public-education/',
+  'elections': 'http://www.texastribune.org/feeds/sections/politics/elections/'
 }
