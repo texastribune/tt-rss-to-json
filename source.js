@@ -3,5 +3,6 @@
 
 module.exports = {
   'public-education': 'http://www.texastribune.org/feeds/sections/education/public-education/',
-  'elections': 'http://www.texastribune.org/feeds/sections/politics/elections/'
+  'elections': 'http://www.texastribune.org/feeds/sections/politics/elections/',
+  'higher-education': 'http://www.texastribune.org/feeds/sections/education/higher-education/'
 }
